@@ -13,5 +13,6 @@ Peppermint Crisp,1,13.99
 Orchid,1,179.95
 Axe Aero Deodrant,1,29.00
 Albany White Bread Thin,1,18.99
-Donuts,6,10
+Donuts,6,10.00
+Monster,2,17.00
 Spar Plastic Bag,2,1.15
