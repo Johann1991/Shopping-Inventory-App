@@ -1,0 +1,17 @@
+Coca Cola 2.25 liter,2,25.49
+Hamburger Rolls 6's,1,13.80
+Tissue Paper,2,12.99
+Chicken Prego,0.530,104.99
+Bic Razor Pouch 5's,1,45.99
+Lindt Slab,1,39.99
+Macarons 6's,1,72.99
+Frisco Coffee Granuler,1,89.99
+Spar MC Pie,1,31.99
+Cadbury Slab,1,11.68
+Cadbury Chomp,5,6.49
+Peppermint Crisp,1,13.99
+Orchid,1,179.95
+Axe Aero Deodrant,1,29.00
+Albany White Bread Thin,1,18.99
+Donuts,6,10
+Spar Plastic Bag,2,1.15
